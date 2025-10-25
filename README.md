@@ -373,3 +373,269 @@ const bhuvan = {
   - Fleet management businesses
   - Logistics optimization
 ```
+
+</details>
+
+---
+
+<div align="center">
+
+### 📚 Attendance System - Smart Attendance Management
+
+<a href="https://github.com/Bhuvan-1005/Attendance-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvan-1005&repo=Attendance-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+</a>
+
+</div>
+
+<details>
+<summary>🔍 <b>Click to see detailed features</b></summary>
+
+<br>
+
+```yaml
+📋 Project Overview:
+  Type: Educational Management System
+  Status: ✅ Deployed & Active
+  Industry: Education Technology
+  
+✨ Key Features:
+  👨‍🏫 Teacher Portal:
+    - Manage classes and subjects
+    - Mark attendance efficiently
+    - Generate attendance reports
+    - View student records
+    
+  👨‍🎓 Student Portal:
+    - View attendance records
+    - Check attendance percentage
+    - Subject-wise attendance tracking
+    - Download reports
+    
+  🔐 Authentication System:
+    - Secure login/signup
+    - JWT token-based authentication
+    - Password encryption with bcrypt
+    - Role-based access control
+    
+  📊 Analytics Dashboard:
+    - Attendance statistics
+    - Visual reports and charts
+    - Export functionality
+    - Real-time updates
+
+🛠️ Technology Stack:
+  Backend:
+    - Node.js & Express.js
+    - RESTful API design
+    - JWT for authentication
+    - bcrypt for password hashing
+    
+  Database:
+    - MySQL for data storage
+    - Structured schema design
+    - Optimized queries
+    
+  Frontend:
+    - React.js
+    - Responsive design
+    - Modern UI/UX
+    
+  Security:
+    - Password encryption
+    - Token-based authentication
+    - Input validation
+    - SQL injection prevention
+
+💡 Impact:
+  - Streamlines attendance tracking
+  - Reduces manual errors
+  - Saves administrative time
+  - Provides instant analytics
+  
+🎯 Use Cases:
+  - Schools and colleges
+  - Training institutes
+  - Corporate training programs
+  - Educational institutions
+```
+
+</details>
+
+---
+
+<div align="center">
+
+### 💼 Portfolio - Personal Portfolio Website
+
+<a href="https://github.com/Bhuvan-1005/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvan-1005&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+</a>
+
+</div>
+
+<details>
+<summary>🔍 <b>Click to see detailed features</b></summary>
+
+<br>
+
+```yaml
+📋 Project Overview:
+  Type: Personal Portfolio Website
+  Status: 🌐 Live & Active
+  Industry: Personal Branding
+  
+✨ Key Features:
+  🎨 Modern Design:
+    - Responsive layout
+    - Smooth animations
+    - Interactive components
+    - Dark mode support
+    
+  📱 Sections:
+    - Hero section with introduction
+    - About me with skills
+    - Projects showcase
+    - GitHub statistics
+    - Contact form
+    
+  ⚡ Performance:
+    - Fast page loads
+    - Optimized images
+    - SEO friendly
+    - Progressive Web App features
+
+🛠️ Technology Stack:
+  Framework:
+    - Next.js for SSR/SSG
+    - TypeScript for type safety
+    
+  Styling:
+    - Tailwind CSS
+    - Custom animations
+    - Responsive design
+    
+  Components:
+    - Reusable UI components
+    - Loading screens
+    - Scroll animations
+    
+  Deployment:
+    - Vercel hosting
+    - Automatic deployments
+    - Custom domain
+
+💡 Features:
+  - Showcases projects and skills
+  - GitHub integration
+  - Contact form
+  - Performance optimized
+  
+🎯 Purpose:
+  - Professional online presence
+  - Project showcase
+  - Contact point for opportunities
+  - Personal branding
+```
+
+</details>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+> "Code is like humor. When you have to explain it, it’s bad."
+
+</div>
+
+---
+
+## 🎨 When I'm Not Coding
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100px" />
+<br><b>☕ Coffee Brewing</b>
+<br><sub>Fuel for Coding</sub>
+<br>
+<code>██████████</code> 100%
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/U4DswrBiaz0p67ZweH/giphy.gif" width="100px" />
+<br><b>🎮 Gaming</b>
+<br><sub>Strategy Games</sub>
+<br>
+<code>███████░░░</code> 70%
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100px" />
+<br><b>📚 Reading</b>
+<br><sub>Tech Blogs & Books</sub>
+<br>
+<code>████████░░</code> 80%
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/ZGH8VtTZMmnwzsYYMf/giphy.gif" width="100px" />
+<br><b>🎵 Music</b>
+<br><sub>Lo-fi Hip Hop</sub>
+<br>
+<code>█████████░</code> 90%
+</td>
+</tr>
+</table>
+
+### 🎯 My Coding Style
+
+```python
+while (not success):
+    try:
+        code()
+    except Exception as e:
+        debug(e)
+        learn()
+        coffee += 1
+    finally:
+        if coffee > 10:
+            take_a_break()
+        persistence += 1
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvaneshwar-n-2577232b3)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/BhuvaneshwarN4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhuvaneshwar-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvaneshwar206@gmail.com)
+
+### 📫 Or shoot me an email at: **bhuvaneshwar206@gmail.com**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Today's Wisdom
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+
+<sub>⚡ **Powered by passion, fueled by coffee** ⚡</sub>
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+</div>
