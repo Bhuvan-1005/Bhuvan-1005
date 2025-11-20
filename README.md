@@ -287,7 +287,7 @@ const bhuvan = {
 
 ### 🚗 NeuroFleetX - AI-Driven Urban Mobility Platform
 
-<a href="https://github.com/Bhuvan-1005/Bhuvan-NeuroFleetX">
+<a href="https://github.com/Bhuvan-1005/NeuroFleetX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuvan-1005&repo=Bhuvan-NeuroFleetX&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
