@@ -73,7 +73,6 @@ const bhuvan = {
   - Master cloud-native architectures
   - Build a successful SaaS product
   - Contribute to major open-source projects
-  - Mentor 100+ developers
 ```
 
 </details>
